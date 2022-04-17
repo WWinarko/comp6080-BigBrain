@@ -1,0 +1,30 @@
+.cardHeader {
+  background-color: grey;
+}
+
+.cardContent {
+  display: 'flex';
+  justify-content: 'center';
+  align-items: 'baseline';
+  margin-bottom: 2px;
+}
+
+.buttonColor {
+  background-color: #3f51b5 !important;
+  color: white !important;
+}
+
+.greenButton {
+  background-color:#3CB371 !important;
+  color: white !important;
+}
+
+.redButton {
+  background-color: #5c0505 !important;
+  color: white !important;
+}
+
+.disabledButton {
+  background-color: grey !important;
+  color: white !important;
+}
